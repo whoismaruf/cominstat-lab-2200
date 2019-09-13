@@ -1,0 +1,3 @@
+-----------------REQUIRMENTS------------------------
+Python - Upto 3.X.X version
+Packages - pandas,
